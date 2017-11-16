@@ -1,0 +1,28 @@
+@import url("normalize.css");
+
+/****** Base ******/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000;
+    color: white;
+    text-align: right;
+}
